@@ -1,0 +1,7 @@
+﻿  HW27.11.cpp
+C:\Users\Rog\source\repos\HW27.11\HW27.11.cpp(7,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW27.11\HW27.11.cpp(11,20): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW27.11\HW27.11.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW27.11\HW27.11.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rog\source\repos\HW27.11\HW27.11.cpp(45,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW27.11.vcxproj -> C:\Users\Rog\source\repos\HW27.11\x64\Debug\HW27.11.exe
